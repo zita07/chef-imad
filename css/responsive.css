@@ -234,4 +234,12 @@
     .menu {
         text-align: center;
     }
+    .float{
+        position:fixed;
+        width:50px;
+        height:45px;
+        bottom:25px;
+        right:20px;
+      z-index:100;
+}
 }

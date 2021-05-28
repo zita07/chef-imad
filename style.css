@@ -832,3 +832,12 @@ footer .social-link a:hover {
     overflow: visible;
     background: #fff url('img/loader.gif') no-repeat center center;
 }
+/*********whatsapp icons********/
+.float{
+	position:fixed;
+	width:50px;
+	height:30px;
+	bottom:40px;
+	right:70px;
+  z-index:100;
+}
